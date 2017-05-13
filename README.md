@@ -17,7 +17,7 @@
   ```
   $ cd repoName
   $ npm install  //to install the dependencies in the local _modules folder
-  $ node server.js or nodemon index.js  //to run the server
+  $ node server.js or nodemon server.js  //to run the server
   ```
   Verify the Output.
   ```
